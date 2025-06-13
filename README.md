@@ -6,8 +6,9 @@ Hi, I'm Amir 👋<br>I'm a hardware programmer 💻 and a university student in 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/iam_the_amir?igsh=YjJrOGF3MDRzbzl0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:amir.nytrix@gmail.com) 
-
+<img align="right" alt="Amir" width = "200" src ="https://media.tenor.com/7i38ifwvCxAAAAAM/anonymous-dedsec.gif">
 # 💻 Tech Stack:
+
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Amir-Mahdi-Barati&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
