@@ -1,6 +1,6 @@
+<img align="right" alt="Amir" width = "200" src ="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 # 💫 About Me:
 Hi, I'm Amir 👋<br>I'm a hardware programmer 💻 and a university student in mechatronics engineering 🤖.<br>I work with Arduino 🔧, Raspberry Pi 🍓, ESP modules 📡, and Python 🐍.<br>I enjoy designing PCBs 
-<img align="right" alt="Amir" width = "200" src ="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 🧰, building smart gadgets ⚙️, and exploring tech & cybersecurity 🕵️‍♂️💡.<br>Always learning, always creating 🚀.<br><br>
 
 
