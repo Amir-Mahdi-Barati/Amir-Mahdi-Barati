@@ -1,4 +1,3 @@
-<img align="right" width="100" src="https://mir-s3-cdn-cf.behance.net/project_modules/hd/06f21a161921919.63cd7887d0a70.gif">
 
 # Amir Mahdi Barati  
 ### Hardware & Software Developer
