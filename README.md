@@ -1,7 +1,7 @@
-# Amir Mahdi Barati  
+ # ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=36&duration=3000&pause=800&color=00BFFF&center=true&vCenter=true&width=900&lines=Hello!;I'm+AMIR+MAHDI+BARATI;Python+Linux+C+Embedded-Programming)
+
+ 
 ### Hardware & Software Developer
-
-
 I'm Amir — a mechatronics engineering student and hardware-focused developer.  
 I work with Python, C++, and microcontrollers programming.  
 My main focus areas are:
