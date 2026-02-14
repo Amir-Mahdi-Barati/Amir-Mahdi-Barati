@@ -2,15 +2,25 @@
 
  
 ### Hardware & Software Developer
-I'm Amir — a mechatronics engineering student and hardware-focused developer.  
-I work with Python, C++, and microcontrollers programming.  
-My main focus areas are:
+Mechatronics Engineering student with hands-on experience in embedded systems, programming, and practical engineering solutions. My academic background combines electronics, control systems, and software, enabling me to take projects from concept to real-world implementation.
 
-- Embedded Programming (Arduino, ESP, AVR)
-- Python Automation & Hardware Integration  
-- Raspberry Pi & IoT Systems  
-- PCB Design & Electronics  
-- Robotics & Smart Devices  
+I have worked with **Arduino, ESP microcontrollers, and Raspberry Pi**, developing projects that involve sensor integration, actuator control, data processing, and system automation. I also had the opportunity to participate in and present a project at the **National Khwarizmi Exhibition**, which strengthened my practical experience, teamwork, and problem-solving skills.
+
+On the software side, I am proficient in **Python** and use it to develop engineering tools, practical applications, and automation scripts. I work comfortably in **Linux** environments and have solid experience with **Bash scripting** for task automation, system management, and workflow optimization.
+
+I maintain an active GitHub profile where I share and improve real-world projects. My work reflects a strong commitment to continuous learning, clean coding practices, and building practical, maintainable solutions rather than purely academic exercises.
+
+I am a self-driven learner, a structured problem solver, and a reliable team player who adapts quickly to new technologies and environments. I enjoy working on challenging projects, interdisciplinary collaboration, and turning ideas into functional and usable systems.
+
+**Skills & Expertise:**
+
+* Embedded Systems: Arduino, ESP (ESP8266 / ESP32), Raspberry Pi
+* Programming: Python
+* Operating Systems: Linux
+* Scripting: Bash
+* Mechatronics & Electronics: sensors, actuators, hardware–software integration
+* Version Control & Collaboration: Git, GitHub
+
 
 ---
 
