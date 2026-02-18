@@ -22,7 +22,8 @@ On the software side, I am proficient in **Python** and use it to develop engine
 
 ## Contact
 - **Instagram:** @iam_the_amir  
-- **Email:** amir.nytrix@gmail.com  
+- **Email:** amir.nytrix@gmail.com
+- [Linkdin](https://www.linkedin.com/in/amir-mahdi-barati-210ab5375)
 
 ---
 
