@@ -8,10 +8,6 @@ I have worked with **Arduino, ESP microcontrollers, and Raspberry Pi**, developi
 
 On the software side, I am proficient in **Python** and use it to develop engineering tools, practical applications, and automation scripts. I work comfortably in **Linux** environments and have solid experience with **Bash scripting** for task automation, system management, and workflow optimization.
 
-I maintain an active GitHub profile where I share and improve real-world projects. My work reflects a strong commitment to continuous learning, clean coding practices, and building practical, maintainable solutions rather than purely academic exercises.
-
-I am a self-driven learner, a structured problem solver, and a reliable team player who adapts quickly to new technologies and environments. I enjoy working on challenging projects, interdisciplinary collaboration, and turning ideas into functional and usable systems.
-
 **Skills & Expertise:**
 
 * Embedded Systems: Arduino, ESP (ESP8266 / ESP32), Raspberry Pi
