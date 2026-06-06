@@ -162,7 +162,7 @@ Silent, low-footprint system telemetry for security research and education. Moni
 | | Certification | Platform | Verify |
 |:---:|:---|:---|:---:|
 | 🎖️ | Foundational C# with Microsoft | freeCodeCamp × Microsoft | [Link](https://www.freecodecamp.org/certification/amirmahdibarati/foundational-c-sharp-with-microsoft) |
-| 🎖️ | Java Programming I — MOOC | University of Helsinki | [Link](https://certificates.mooc.fi/validate/bpv2x51oeje) |
+| 🎖️ | AI Programming I — MOOC | University of Helsinki | [Link](https://certificates.mooc.fi/validate/bpv2x51oeje) |
 | 🏅 | All verified badges | Credly | [Profile](https://www.credly.com/users/amir-mahdi-barati) |
 
 </div>
