@@ -5,7 +5,7 @@
 
 <div align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2540,80:112240,100:0d1117&height=200&section=header&text=Amir%20Mahdi%20Barati&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Mechatronics%20Engineer%20%E2%80%A2%20Embedded%20Systems%20%E2%80%A2%20IoT%20%E2%80%A2%20Isfahan&descAlignY=60&descColor=8b949e&descSize=17"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2540,80:112240,100:0d1117&height=200&section=header&text=Amir%20Mahdi%20Barati&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Mechatronics%20Engineer%20%E2%80%A2%20Embedded%20Systems%20%E2%80%A2%20IoT&descAlignY=60&descColor=8b949e&descSize=17"
     alt="header"
   />
 </div>
