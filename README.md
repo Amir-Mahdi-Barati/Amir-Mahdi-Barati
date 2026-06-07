@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=Building+hardware+that+thinks+%F0%9F%A4%96;Firmware+%7C+Python+%7C+Linux+%7C+IoT;National+Khwarizmi+Exhibition+%F0%9F%8F%86+Presenter;CoffeeCodeBox+%E2%80%94+building+what+matters)](https://github.com/Amir-Mahdi-Barati)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=Building+hardware+that+thinks+%F0%9F%A4%96;Firmware+%7C+Python+%7C+Linux+%7C+IoT;CoffeeCodeBox+%E2%80%94+building+what+matters)](https://github.com/Amir-Mahdi-Barati)
 
 </div>
 
