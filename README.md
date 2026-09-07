@@ -1,180 +1,223 @@
-<!-- =====================================================================
-     AMIR MAHDI BARATI — GitHub Profile README
-     Last updated : 2026 
-     ===================================================================== -->
-
-<div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,40:0a2540,80:112240,100:0d1117&height=200&section=header&text=Amir%20Mahdi%20Barati&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Mechatronics%20Engineer%20%E2%80%A2%20Embedded%20Systems%20%E2%80%A2%20IoT&descAlignY=60&descColor=8b949e&descSize=17"
-    alt="header"
-  />
-</div>
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&lines=Building+hardware+that+thinks+%F0%9F%A4%96;Firmware+%7C+Python+%7C+Linux+%7C+IoT;CoffeeCodeBox+%E2%80%94+building+what+matters)](https://github.com/Amir-Mahdi-Barati)
+# Amir Mahdi Barati
+
+**Mechatronics Engineer · Embedded Systems · IoT · Software**
+
+Building systems where **hardware, firmware and software meet.**
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square\&logo=github\&logoColor=white)](https://github.com/Amir-Mahdi-Barati)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:amir.nytrix@gmail.com)
+[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat-square\&logo=credly\&logoColor=white)](https://www.credly.com/users/amir-mahdi-barati)
 
 </div>
-
-<br/>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amir-mahdi-barati-210ab5375)
-[![Instagram](https://img.shields.io/badge/@iam__the__amir-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/iam_the_amir)
-[![Email](https://img.shields.io/badge/amir.nytrix%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:amir.nytrix@gmail.com)
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=flat-square&logo=credly&logoColor=white)](https://www.credly.com/users/amir-mahdi-barati)
-[![CoffeeCodeBox](https://img.shields.io/badge/CoffeeCodeBox-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/CoffeeCodeBox)
-
-</div>
-
-<br/>
 
 ---
 
-## `$ whoami`
+## About
 
-```python
-#!/usr/bin/env python3
-"""
-Profile boot sequence — Amir Mahdi Barati
-"""
+I am a Mechatronics Engineer working across embedded systems, software development and connected hardware.
 
-from dataclasses import dataclass, field
-from typing import List
+My projects range from low-level microcontroller firmware and sensor systems to desktop tools, web interfaces and IoT platforms.
 
-@dataclass
-class AmirMahdiBarati:
-    name:        str        = "Amir Mahdi Barati"
-    role:        str        = "Mechatronics Engineer & Developer"
-    location:    str        = "Isfahan, Iran"
-    org:         str        = "CoffeeCodeBox"
-    languages:   List[str]  = field(default_factory=lambda: [
-                                 "Python", "C++", "Bash", "C#"
-                             ])
-    hardware:    List[str]  = field(default_factory=lambda: [
-                                 "Arduino", "ESP32", "ESP8266", "Raspberry Pi"
-                             ])
-    domains:     List[str]  = field(default_factory=lambda: [
-                                 "Embedded Systems", "IoT", "PCB Design",
-                                 "Cybersecurity", "Linux"
-                             ])
-    achievement: str        = "🏆 National Khwarizmi Exhibition — presented live"
-    currently:   List[str]  = field(default_factory=lambda: [
-                                 "Exploring RTOS & bare-metal firmware",
-                                 "Building tools under CoffeeCodeBox",
-                                 "Deepening Linux internals & kernel scripting"
-                             ])
-    open_to:     str        = "Collaboration, open-source, and real-world builds 🚀"
+I enjoy building complete systems — from the circuit and firmware to the software layer that interacts with it.
 
-
-if __name__ == "__main__":
-    me = AmirMahdiBarati()
-    print(f"[BOOT] {me.name} — {me.role}")
-    print(f"[INFO] Based in {me.location} | Org: {me.org}")
-    print(f"[STAT] {me.achievement}")
-    for item in me.currently:
-        print(f"[ >> ] {item}")
+```text
+Embedded Systems  →  Firmware  →  Software  →  Connected Systems
+       │                │             │               │
+     ESP32            C/C++         Python            IoT
+     Arduino          RTOS          Linux             Networking
+     Raspberry Pi      Sensors       Web               Edge
 ```
 
 ---
 
-## ⚙️ Tech Stack
+## Current Work
 
-<div align="center">
+### FaraVision
 
-| Layer | Tools |
-|:---:|:---|
-| **Firmware** | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white) ![ESP8266](https://img.shields.io/badge/ESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white) |
-| **Languages** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white) |
-| **Web / Backend** | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
-| **OS / Infra** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white) |
-| **Protocols** | ![I2C](https://img.shields.io/badge/I²C-555555?style=flat-square) ![SPI](https://img.shields.io/badge/SPI-555555?style=flat-square) ![UART](https://img.shields.io/badge/UART-555555?style=flat-square) ![MQTT](https://img.shields.io/badge/MQTT-660066?style=flat-square&logo=mqtt&logoColor=white) |
+**Real-Time Health Intelligence for Industrial Workforces**
 
-</div>
+A wearable technology platform designed for real-time health and safety monitoring in industrial environments.
 
----
+The system integrates embedded sensing, wireless communication and a monitoring interface into a single hardware/software platform.
 
-## 🚀 Featured Projects
+**Core system**
 
-<table>
-<tr>
-<td width="50%" valign="top">
+`ESP32` · `ECG` · `SpO₂` · `IMU` · `Temperature` · `IoT` · `Real-Time Monitoring`
 
-### 🌑 [Dark-Ray](https://github.com/Amir-Mahdi-Barati/Dark-Ray)
-> RGB LED Controller — built & deployed hardware
+**Recognition**
 
-Full OLED menu system with NeoPixel LED strip control. Dual input: push-buttons + rotary encoder. 10+ effects: rainbow, fire, ice, bounce, wave. Arduino Uno/Nano target. Shipped with User-Guide and wiring schematics.
+**BRICS & Belt and Road Skills Development and Technology Innovation Competition — 2026**
 
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![NeoPixel](https://img.shields.io/badge/NeoPixel-FF6F00?style=flat-square)
-&nbsp;⭐ **3**
+Guangzhou, China · August 21–23, 2026
 
-</td>
-<td width="50%" valign="top">
+The competition was held at the China Import and Export Fair Complex in Guangzhou and brought together technology and skills teams from multiple countries.
 
-### 👻 [GhostPhish v1.0](https://github.com/Amir-Mahdi-Barati/GhostPhish-v1.0)
-> Phishing Simulation — cybersecurity education
-
-Terminal CLI + Flask web server. Realistic login replicas: Instagram, Gmail, GitHub, LinkedIn. Timestamped credential logging to `/logs/`. Modular architecture for new template injection. Runs on localhost only.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Security](https://img.shields.io/badge/Security-red?style=flat-square)
-&nbsp;⭐ **1** · 🍴 **1**
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 [Crypto-Station](https://github.com/Amir-Mahdi-Barati/Crypto-Station)
-> AES + Base64 — runs on an ESP32 chip
-
-No cloud. No server. The ESP32 *is* the server. Browser connects directly to the microcontroller for AES encryption and Base64 encode/decode over Wi-Fi. Proof of concept for edge-native crypto tools.
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white)
-![IoT](https://img.shields.io/badge/IoT-00B4D8?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### 👁️ [SysCreep](https://github.com/CoffeeCodeBox/SysCreep) `org: CoffeeCodeBox`
-> *"Your system thinks it's alone. We know better."*
-
-Silent, low-footprint system telemetry for security research and education. Monitors, logs, and surfaces system-level activity without detection footprint. Built under CoffeeCodeBox organization.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-&nbsp;⭐ **3**
-
-</td>
-</tr>
-</table>
----
-
-## 📜 Certifications
-
-<div align="center">
-
-| | Certification | Platform | Verify |
-|:---:|:---|:---|:---:|
-| 🎖️ | Foundational C# with Microsoft | freeCodeCamp × Microsoft | [Link](https://www.freecodecamp.org/certification/amirmahdibarati/foundational-c-sharp-with-microsoft) |
-| 🎖️ | AI Programming I — MOOC | University of Helsinki | [Link](https://certificates.mooc.fi/validate/bpv2x51oeje) |
-| 🏅 | All verified badges | Credly | [Profile](https://www.credly.com/users/amir-mahdi-barati) |
-
-</div>
+**Team:** Amir Mahdi Barati · Mahdi Aboutalebi
 
 ---
 
+## Recognition
+
+### Khwarizmi Youth Festival
+
+**National Khwarizmi Youth Festival — Project Recognition & Exhibition**
+
+Presented an engineering project at one of Iran's major national youth innovation and technology events.
+
+### BRICS 2026
+
+**Technology & Innovation Competition — Guangzhou, China**
+
+International competition focused on skills development, technological innovation and engineering projects.
+
+---
+
+## Selected Projects
+
+### [Digital Chess & Backgammon Timer](https://github.com/Amir-Mahdi-Barati/Digital-Chess-Backgammon-Timer)
+
+A hardware game clock built around an Arduino-compatible microcontroller and **ST7920 128×64 graphical LCD**.
+
+The firmware uses a finite-state-machine architecture and non-blocking timing based on `millis()`. It supports Chess and Backgammon time-control presets, increment/delay modes, EEPROM configuration storage, low-time warnings, automatic flag detection and a graphical interface.
+
+`C++` `Arduino` `ST7920` `U8g2` `EEPROM` `FSM`
+
+---
+
+### [MOON MUSIC APP](https://github.com/Amir-Mahdi-Barati/MOON-MUSIC-APP)
+
+A music application project focused on building a modern software interface and user experience.
+
+`Software` `UI/UX` `Music`
+
+---
+
+### [Dark-Ray](https://github.com/Amir-Mahdi-Barati/Dark-Ray)
+
+An embedded RGB lighting controller with an OLED interface, rotary encoder and programmable lighting effects.
+
+`C++` `Arduino` `OLED` `NeoPixel`
+
+---
+
+### [Crypto-Station](https://github.com/Amir-Mahdi-Barati/Crypto-Station)
+
+An ESP32-based local cryptography experiment where the microcontroller provides the server and browser interface directly over Wi-Fi.
+
+`C++` `ESP32` `AES` `Wi-Fi`
+
+---
+
+### [GhostPhish](https://github.com/Amir-Mahdi-Barati/GhostPhish-v1.0)
+
+A controlled phishing-simulation environment created for cybersecurity education and security research.
+
+`Python` `Flask` `Security`
+
+---
+
+### [SysCreep](https://github.com/CoffeeCodeBox/SysCreep)
+
+System telemetry and monitoring tooling developed under the CoffeeCodeBox organization.
+
+`Python` `Linux` `Telemetry`
+
+---
+
+## Technical Stack
+
+### Languages
+
+`Python` · `C` · `C++` · `C#` · `Bash`
+
+### Embedded
+
+`ESP32` · `ESP8266` · `Arduino` · `Raspberry Pi`
+
+### Systems
+
+`Linux` · `Git` · `GitHub Actions` · `Networking`
+
+### Software
+
+`Python` · `Flask` · `HTML` · `CSS`
+
+### Hardware & Communication
+
+`I²C` · `SPI` · `UART` · `Wi-Fi` · `MQTT`
+
+### Engineering
+
+`Embedded Systems` · `IoT` · `PCB Design` · `Sensors` · `Firmware` · `Hardware/Software Integration`
+
+---
+
+## Certifications
+
+**Foundational C# with Microsoft**
+freeCodeCamp × Microsoft
+[Verify credential](https://www.freecodecamp.org/certification/amirmahdibarati/foundational-c-sharp-with-microsoft)
+
+**AI Programming I**
+University of Helsinki MOOC
+[Verify credential](https://certificates.mooc.fi/validate/bpv2x51oeje)
+
+**Digital Credentials**
+[Credly](https://www.credly.com/users/amir-mahdi-barati)
+
+---
+
+## Now Exploring
+
+```text
+Embedded
+    RTOS
+    Bare-Metal Development
+    Low-Level Firmware
+
+Intelligent Systems
+    Machine Learning
+    Computer Vision
+    Edge AI
+
+Systems
+    Linux Internals
+    Networking
+    Distributed IoT
+
+Engineering
+    Industrial Automation
+    Wearable Technology
+    Hardware / Software Architecture
+```
+
+---
+
+## Open Source
+
+Most of my work is built around experimentation, engineering and learning by implementation.
+
+I am interested in:
+
+* Embedded and low-level systems
+* Industrial IoT
+* Open-source hardware
+* Applied AI
+* Linux and systems programming
+* Hardware/software architecture
+
+---
+
 <div align="center">
-  <img
-    src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0a2540,100:0d1117&height=100&section=footer&reversal=false"
-    alt="footer"
-  />
-  <sub>
-    <i>« Engineering is the art of turning ideas into reality »</i>
-  </sub>
+
+### Build it. Measure it. Understand it.
+
+<br>
+
+<sub>Hardware is only half the system.</sub>
+
 </div>
