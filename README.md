@@ -20,7 +20,7 @@ Building systems where **hardware, firmware and software meet.**
 
 I am a Mechatronics Engineer working across embedded systems, software development and connected hardware.
 
-My projects range from low-level microcontroller firmware and sensor systems to desktop tools, web interfaces and IoT platforms.
+My projects range from microcontroller firmware and sensor systems to desktop tools, web interfaces and IoT platforms.
 
 I enjoy building complete systems — from the circuit and firmware to the software layer that interacts with it.
 
@@ -46,7 +46,7 @@ The system integrates embedded sensing, wireless communication and a monitoring 
 
 **Core system**
 
-`ESP32` · `ECG` · `SpO₂` · `IMU` · `Temperature` · `IoT` · `Real-Time Monitoring`
+ `IoT` · `Real-Time Monitoring`
 
 **Recognition**
 
@@ -203,7 +203,7 @@ Most of my work is built around experimentation, engineering and learning by imp
 
 I am interested in:
 
-* Embedded and low-level systems
+* Embedded systems
 * Industrial IoT
 * Open-source hardware
 * Applied AI
