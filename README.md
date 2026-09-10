@@ -177,7 +177,7 @@ University of Helsinki MOOC
 Embedded
     RTOS
     Bare-Metal Development
-    Low-Level Firmware
+    Firmware
 
 Intelligent Systems
     Machine Learning
